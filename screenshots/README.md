@@ -1,14 +1,39 @@
-# 📸 Project Evidence
+## 📸 Evidence
 
-This folder contains screenshots collected during the Password Security Assessment.
+The following screenshots were collected during the Password Security Assessment.
 
-## Included Evidence
+---
 
-- Google Password Manager
-- Password Checkup
-- Sync & Google Services
-- Privacy & Security Settings
-- Saved Password Settings (sanitized)
-- Two-Factor Authentication (or another relevant security setting)
+### Google Password Manager
 
-These screenshots provide supporting evidence for the findings documented in this repository.
+[View Screenshot](screenshots/chrome%20pw.png)
+
+---
+
+### Password Checkup
+
+[View Screenshot](screenshots/number%202.png)
+
+---
+
+### Sync & Google Services
+
+*(Coming soon)*
+
+---
+
+### Privacy & Security Settings
+
+*(Coming soon)*
+
+---
+
+### Saved Password Settings (Sanitized)
+
+*(Coming soon)*
+
+---
+
+### Two-Factor Authentication
+
+*(Coming soon)*
