@@ -4,7 +4,7 @@
 
 This project documents a security assessment of password security practices on a Chromebook. The assessment evaluates browser password storage, password strength, multi-factor authentication (MFA), and account security settings to identify potential security risks and recommend improvements.
 
-This project was completed as part of my cybersecurity portfolio to demonstrate practical experience performing security assessments and documenting findings.
+The assessment was completed as part of my cybersecurity portfolio to demonstrate practical experience performing security assessments and documenting findings.
 
 ---
 
@@ -13,19 +13,20 @@ This project was completed as part of my cybersecurity portfolio to demonstrate 
 - Review password management practices.
 - Evaluate browser password security.
 - Verify multi-factor authentication settings.
-- Assess saved passwords for security risks.
-- Identify security weaknesses.
-- Recommend security improvements.
+- Review Google Password Manager configuration.
+- Identify password-related security risks.
+- Recommend improvements based on security best practices.
 
 ---
 
-## 🖥️ Environment
+## 🖥️ System Information
 
 | Item | Value |
 |------|------|
 | Operating System | ChromeOS |
 | Browser | Google Chrome |
-| Assessment Type | Password Security Assessment |
+| Password Manager | Google Password Manager |
+| Assessment Type | Local Password Security Assessment |
 
 ---
 
@@ -33,7 +34,6 @@ This project was completed as part of my cybersecurity portfolio to demonstrate 
 
 - Google Chrome
 - Google Password Manager
-- Chrome Safety Check
 - Chrome Settings
 - GitHub
 
@@ -41,54 +41,83 @@ This project was completed as part of my cybersecurity portfolio to demonstrate 
 
 ## 🔍 Assessment Scope
 
-The following areas will be reviewed:
+The following areas were reviewed:
 
-- Password Manager
-- Saved Passwords
+- Google Password Manager
 - Password Checkup
+- Sync & Google Services
+- Privacy & Security Settings
+- Saved Password Configuration
 - Multi-Factor Authentication
-- Chrome Security Settings
-- Account Recovery Options
 
 ---
 
 ## 📸 Evidence
 
-Screenshots collected during this assessment include:
+### Google Password Manager
 
-- Password Manager
-- Password Checkup
-- Security Settings
-- MFA Settings
-- Recovery Options
-- Chrome Safety Check
+[View Screenshot](screenshots/chrome%20pw.png)
 
 ---
 
-## 📁 Repository Structure
+### Password Checkup
 
-```
-password-security-assessment/
-│
-├── README.md
-├── findings.md
-├── recommendations.md
-└── screenshots/
-```
+*(Coming soon)*
+
+---
+
+### Sync & Google Services
+
+*(Coming soon)*
+
+---
+
+### Privacy & Security Settings
+
+*(Coming soon)*
+
+---
+
+### Saved Password Settings (Sanitized)
+
+*(Coming soon)*
+
+---
+
+### Two-Factor Authentication
+
+*(Coming soon)*
+
+---
+
+## ⚠️ Findings
+
+Detailed findings are documented in:
+
+- **findings.md**
+
+---
+
+## ✅ Recommendations
+
+Security recommendations are documented in:
+
+- **recommendations.md**
 
 ---
 
 ## 📚 Skills Demonstrated
 
-- Password Security
-- Identity and Access Management (IAM)
+- Password Security Assessment
 - Security Documentation
-- Risk Assessment
+- Risk Identification
 - Security Best Practices
-- Technical Writing
+- Technical Documentation
+- GitHub Documentation
+- Cybersecurity Reporting
 
 ---
 
-## 📄 License
+## 📌 Conclusion
 
-This project is for educational and portfolio purposes.
+This assessment demonstrates the process of evaluating password security settings, identifying potential security weaknesses, and documenting findings using industry-standard cybersecurity documentation practices.
