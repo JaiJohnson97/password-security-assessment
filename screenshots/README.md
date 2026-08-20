@@ -18,22 +18,22 @@ The following screenshots were collected during the Password Security Assessment
 
 ### Sync & Google Services
 
-*(Coming soon)*
+[View Screenshot](screenshots/Screenshot%202026-08-19%203.50.31%20PM.png)
 
 ---
 
 ### Privacy & Security Settings
 
-*(Coming soon)*
+[View Screenshot](screenshots/chrome.security.settings.png)
 
 ---
 
 ### Saved Password Settings (Sanitized)
 
-*(Coming soon)*
+*Coming soon*
 
 ---
 
 ### Two-Factor Authentication
 
-*(Coming soon)*
+*Coming soon*
